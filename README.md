@@ -12,7 +12,7 @@
 - North Carolina State University   
 - West Bengal University of Technology
 
-# Work Experience
+## Work Experience
 - Strata Clean Energy
 - Accenture
 - Datamatics
